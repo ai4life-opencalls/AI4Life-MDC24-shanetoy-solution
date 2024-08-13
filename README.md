@@ -11,6 +11,6 @@
 
 Sumission code for the **third place** solution on [Structured noise 1: Hagen et al Leadearboard](https://ai4life-mdc24.grand-challenge.org/evaluation/final-phase-structured-noise-1/leaderboard/).  
 
-Code created by Si Young Yie [shanetoy](https://grand-challenge.org/users/shanetoy/) on the base of the [example submission](https://github.com/ai4life-opencalls/AI4Life-MDC24-example-submission).
+Code created by Si Young Yie [shanetoy](https://grand-challenge.org/users/shanetoy/) based on the [example submission](https://github.com/ai4life-opencalls/AI4Life-MDC24-example-submission).
 
-The main idea is to calculate self-correlation of image, and get a correlation-weighted image.
+The main idea is to calculate the self-correlation of the image and get a correlation-weighted image.
